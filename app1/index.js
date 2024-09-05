@@ -14,5 +14,5 @@ const products = [
   });
 
 app.listen(port, () => {
-  console.log(`Frontend app listening at http://localhost:${port}`);
+  console.log(`App1 listening at http://localhost:${port}`);
 });

@@ -12,5 +12,5 @@ app.get('/products', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Backend API listening at http://localhost:${port}`);
+  console.log(`App2 listening at http://localhost:${port}`);
 });
